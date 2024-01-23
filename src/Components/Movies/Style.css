@@ -1,0 +1,44 @@
+.MovieList {
+  padding: 20px 40px;
+  border-bottom: 1px solid #c9c1c1;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.Sec_A {
+  border-right: 1px solid #c9c1c1;
+  height: 100vh;
+}
+.Ep_Text {
+  font-size: 18px;
+  font-weight: 600;
+  color: #8b8888;
+}
+.Title_Text {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(94, 94, 94);
+ 
+}
+.Half_Wid {
+  width: 50%;
+}
+.Flex {
+  display: flex;
+}
+.Col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+.CenterIt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.Text_Color {
+  color: rgb(94, 94, 94);
+}
